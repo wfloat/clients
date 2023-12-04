@@ -1,0 +1,9 @@
+query Films {
+  allFilms(first: 6) {
+    edges {
+      node {
+        title
+      }
+    }
+  }
+}
