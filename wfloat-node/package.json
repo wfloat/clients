@@ -1,0 +1,19 @@
+{
+  "name": "wfloat",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfloat/clients.git#main"
+  },
+  "author": "Mitchell Sayre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wfloat/clients/issues"
+  },
+  "homepage": "https://github.com/wfloat/clients/tree/main#readme"
+}
